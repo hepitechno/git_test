@@ -1,0 +1,28 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightslategrey;
+}
+
+.container {
+    margin: auto;
+    width: 80%;
+    background-color: sandybrown;
+    border: 1px solid saddlebrown;
+    border-radius: 5px;
+}
+
+img{
+    align-items: center;
+
+}
+
+h1 {
+    color: crimson;
+    text-align: center;
+    
+}
+
+h2{
+    text-align: center;
+    
+}
