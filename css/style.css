@@ -6,20 +6,22 @@ body {
 .container {
     margin: auto;
     width: 80%;
-    background-color: sandybrown;
-    border: 1px solid saddlebrown;
-    border-radius: 5px;
-    padding: 10%;
+    background-color: rgb(88, 104, 155);
+    border: 10px solid saddlebrown;
+    border-radius: 20px;
+    padding: 4%;
     text-align: center;
 }
 
-.home_img{
+img{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 50%;
 }
 
+
 h1 {
-    color: crimson;
+    color: rgb(247, 233, 45);
     
 }
