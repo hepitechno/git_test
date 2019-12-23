@@ -22,6 +22,10 @@ body {
     box-sizing:border-box;
 }
 
+.clr{
+	clear:both;
+}
+
 img{
     display: block;
     margin-left: auto;
