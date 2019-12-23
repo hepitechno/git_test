@@ -13,6 +13,14 @@ body {
     text-align: center;
 }
 
+.block{
+	float:left;
+	width:33.3%;
+	border:1px solid #ccc;
+	padding:10px;
+	box-sizing:border-box;
+}
+
 img{
     display: block;
     margin-left: auto;
@@ -25,3 +33,5 @@ h1 {
     color: rgb(247, 233, 45);
     
 }
+
+
